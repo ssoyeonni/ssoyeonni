@@ -19,3 +19,15 @@ Here are some ideas to get you started:
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ssoyeonni=anuraghazra&layout=compact) 
 -->
+
+
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/ssoyeonni"
+    width="600"
+    height="120"
+  />
+</a>
+  

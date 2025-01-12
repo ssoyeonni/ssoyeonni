@@ -20,9 +20,15 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ssoyeonni=anuraghazra&layout=compact) 
 -->
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ssoyeonni&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ssoyeonni"
+  width="600"
+  height="300"
+/>
+</a>
 
-
-
+<!--
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/ssoyeonni"
@@ -30,4 +36,4 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
-  
+-->

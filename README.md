@@ -27,13 +27,3 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
-
-<!--
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/ssoyeonni"
-  width="600"
-  height="300"
-/>
-</a>
--->

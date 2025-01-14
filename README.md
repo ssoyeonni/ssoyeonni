@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ssoyeonni=anuraghazra&layout=compact) 
 -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssoyeonni&show_icons=true&theme=radical" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoyeonni" />
-</div>
 
 <div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ssoyeonni&utm_content=farm">
@@ -35,3 +30,13 @@ Here are some ideas to get you started:
 />
 </a>
 </div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssoyeonni&show_icons=true&theme=radical" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoyeonni" />
+</div>
+
+

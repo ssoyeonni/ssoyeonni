@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ssoyeonni=anuraghazra&layout=compact) 
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssoyeonni&show_icons=true&theme=radical)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ssoyeonni&utm_content=farm">
 <img

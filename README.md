@@ -69,9 +69,14 @@ Here are some ideas to get you started:
 
 ## 🏅 Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ssoyeonni&bg_color=180,00000000,00000000&title_color=fd9696&text_color=fd9696"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoyeonni&layout=compact&bg_color=180,00000000,00000000&title_color=fd9696&text_color=fd9696"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ssoyeonni&bg_color=180,00000000,00000000&title_color=fd9696&text_color=fd9696" height="160" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoyeonni&layout=compact&bg_color=180,00000000,00000000&title_color=fd9696&text_color=fd9696" height="160" />
 </div> 
+
+
+
+
+
 <!-- 여기까지 (https://github-profile-readme-editor.netlify.app/secondstep) 코드 -->
 
 <!-- 농장 -->

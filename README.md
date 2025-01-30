@@ -58,13 +58,12 @@ Here are some ideas to get you started:
 <div align="center">
     
 **포트폴리오**
-<a href=https://imsooo.tistory.com/>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
-</a>
+<div style="display: flex; align-items: flex-start;"><a href=https://github.com/ssoyeonni/Portfolio/> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></a>
+</div>
 
 **블로그**
 <div>
-<a href=https://github.com/ssoyeonni/Portfolio> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://imsooo.tistory.com/"> </a>
+<a href=https://imsooo.tistory.com/><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://imsooo.tistory.com/"> </a>
 </div>
 </div>
 

@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stacks 🛠️
 
-<div>
+**Programming Languages**  
+<div> 
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -41,6 +42,10 @@ Here are some ideas to get you started:
 <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<div></div>
+
+**Databases**
+<div>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 </div>
@@ -53,6 +58,9 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 </div>
+
+**Collaboration Tools** 
+
 <br>
 
 ## 🎓 Activities 🎓

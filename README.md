@@ -1,14 +1,14 @@
-<div align="center">
 
 
+
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,6,10,14,16,17,18,19,20,21,24,25,26,27,30&height=180&text=SOYEON's%20github🛫&animation=twinkling&fontColor=ffffff&fontSize=50" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,6,10,14,16,18,19,20,21,24,25,26,27,30&height=180&text=SOYEON's%20github🛫&animation=twinkling&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
 </div>
 
 
-## 💡 About Me 💡
+## 💡 About Me
 안녕하세요! 밝고 긍정적인 에너지로 성장하고 있는, 클라우드 엔지니어 & 백엔드 개발자를 꿈꾸는 대학생입니다.🌱
 <br>
 
@@ -41,7 +41,7 @@
 <!-- table 형식 -->
 |프로젝트 이름|아키텍처|요약|기술 스택|개발 기간|팀원|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[🖨️ Lonitoring](https://github.com/OhKimJeeSuh/Lonitoring)|<img src="https://github.com/user-attachments/assets/89e890ec-1fcd-42f0-adda-d9dbc4595d8f" width="900" >|서버의 리소스 사용량 및 보안 이벤트를 수집, 저장하여 인프라를 효율적으로 관리하는 시스템을 구축|VMware, Ubuntu, MobaXterm, Bash Shell|2025.03.17|4명|
+|[🖨️ Lonitoring](https://github.com/OhKimJeeSuh/Lonitoring)|<img src="https://github.com/user-attachments/assets/89e890ec-1fcd-42f0-adda-d9dbc4595d8f" width="900" >|서버의 **리소스 사용량 및 보안 이벤트**를 수집, 저장하여 인프라를 효율적으로 관리하는 시스템을 구축|VMware, Ubuntu, MobaXterm, Bash Shell|2025.03.17|4명|
 |[🎤 Tech Seminar](https://github.com/12-hours-is-enough/seminar)|<img src="https://github.com/user-attachments/assets/098f8226-c66b-4968-8bc0-473519277e03" width="900" >|MSA 소개와 MSA 구축을 위한 기술, 전환 전략에 대해 소개|MSA|2025.02.17|4명|
 |[🙌 손잡이](https://github.com/12-hours-is-enough/son-job-ee)|<img src="https://github.com/user-attachments/assets/8ec3706c-6fc5-4d00-9959-dcda903e9c3c" width="900" >|은퇴 후에도 활기차게 사회 활동에 참여하고자 하는 시니어들을 위한 맞춤형 일자리 플랫폼|Java, JSP, MySQL, HTML, css, Javascript|2025.02.08 ~ 2025.02.10|4명|
 |[🌐 ELK-Stack-on-VMware](https://github.com/12-hours-is-enough/ELK-Stack-on-VMware)|<img src="https://github.com/user-attachments/assets/c6000c11-d898-486a-a599-130f54a75698" width="900" >|각각의 가상 머신(VM)에 Elasticsearch, Logstash, Kibana를 구성하여 ELK Stack 시스템을 구축|Ubuntu, Elasticsearch, Logstash, Kibana|2025.01.24|4명|
@@ -54,14 +54,17 @@
 
 
 ## 🧑‍💻 Contact me 🧑‍💻
-    
+
+<div align="center">
+   
 **포트폴리오**
-<div style="display: flex; align-items: flex-start;"><a href=https://github.com/ssoyeonni/Portfolio/><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></a>
-</div>
+<div><a href=https://github.com/ssoyeonni/Portfolio/><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></a>
+</div><br>
 
 **블로그**
 <div>
 <a href=https://imsooo.tistory.com/><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://imsooo.tistory.com/"> </a>
+</div>
 </div>
 <br>
 
@@ -89,6 +92,6 @@
 />
 </a>
 </div>
-</div>
+
 
 -->

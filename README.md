@@ -2,7 +2,7 @@
 
 
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc2c2&height=180&text=SOYEON's%20github🛫&animation=twinkling&fontColor=ffffff&fontSize=50" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,6,10,14,16,17,18,19,20,21,24,25,26,27,30&height=180&text=SOYEON's%20github🛫&animation=twinkling&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
 </div>
@@ -65,6 +65,7 @@
 </div>
 <br>
 
+<!-- 
 ## 🏅 Stats 🏅
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=ssoyeonni&bg_color=180,00000000,00000000&title_color=fd9696&text_color=fd9696" height="160" /> 
@@ -72,12 +73,13 @@
 </div> 
 <br>
 
+-->
 
 
 
 <!-- 여기까지 (https://github-profile-readme-editor.netlify.app/secondstep) 코드 -->
 
-<!-- 농장 -->
+<!-- 농장 
 <div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ssoyeonni&utm_content=farm">
 <img
@@ -88,3 +90,5 @@
 </a>
 </div>
 </div>
+
+-->

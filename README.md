@@ -19,13 +19,13 @@
 
 <br>
 
-## 🎓 Activities 🎓
+## 🎓 Activities 
 <div>
 • 우리은행FISA 4기(2024.12 ~ )
 </div>
 <br>
 
-## 🛠️ Tech Stacks 🛠️
+## 🛠️ Tech Stacks 
 |Category|Tech Stack|
 |:---:|:---:|
 |**Programming Languages** |<p align="left"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> </p> |
@@ -37,7 +37,7 @@
 |**Colabration**|<p align="left"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> </p> |
 <br>
 
-## 🗂️ Projects List 🗂️
+## 🗂️ Projects List 
 <!-- table 형식 -->
 |프로젝트 이름|아키텍처|요약|기술 스택|개발 기간|팀원|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -53,7 +53,7 @@
 <br>
 
 
-## 🧑‍💻 Contact me 🧑‍💻
+## 🧑‍💻 Contact me 
 
 <div align="center">
    
@@ -69,7 +69,7 @@
 <br>
 
 <!-- 
-## 🏅 Stats 🏅
+## 🏅 Stats 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=ssoyeonni&bg_color=180,00000000,00000000&title_color=fd9696&text_color=fd9696" height="160" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoyeonni&layout=compact&bg_color=180,00000000,00000000&title_color=fd9696&text_color=fd9696" height="160" />
